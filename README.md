@@ -1,1 +1,1 @@
-# DogVsWolves-VGG16-95.25%
+# DogVsWolves-VGG16-ResNet50
