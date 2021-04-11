@@ -1,1 +1,1 @@
-# DogVsWolves-VGG16-ResNet50
+# DogVsWolves-Xception-VGG16-ResNet50
